@@ -11,3 +11,11 @@
 // 3. Crie um repositório local e trabalhe nele
 
 // 4. Clonar um repositório remoto
+
+// 5. Trabalhando com arquivos diferentes
+
+// 6. Trabalhando com o mesmo arquivo
+
+// 7. Resolver um conflito
+
+// 8. Exercício extra

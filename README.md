@@ -6,3 +6,4 @@
 - Lista de Exercícios I: comandos básicos do terminal focado em manipulação de arquivos e diretórios.
 - Lista de Exercícios II: comandos básicos do Git e Github via terminal.
 - Lista de Exercícios III: comandos avançados do Git e Github via terminal.
+- Lista de Exercícios IV: comandos avançados do Git e Github via terminal.
