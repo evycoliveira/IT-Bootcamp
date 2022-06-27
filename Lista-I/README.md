@@ -1,6 +1,6 @@
 # Lista de Exercícios I
 
-> Lista solicitada durante o dia 22 de junho, sob a temática de visão estratégica em TI e Git. 
+> Lista solicitada durante o dia 22 de junho, sob a temática de visão estratégica em TI e Git.
 
 ## Resolução
 
@@ -11,7 +11,7 @@ mkdir arquivos
 cd arquivos
 
 // 3. Crie um arquivo chamado “teste.txt” e outro “hello.txt”.
-touch teste.txt 
+touch teste.txt
 touch hello.txt
 
 // 4. Utilize o comando que usamos para ver o que temos dentro da pasta.
