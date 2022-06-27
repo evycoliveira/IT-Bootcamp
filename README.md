@@ -1,2 +1,6 @@
-# IT-Bootcamp
-Repositório remoto para treinamento das listas de exercícios do Bootcamp da Digital House em parceria com o @MercadoLivre.
+# Digital House Bootcamp
+> Este repositório conterá as listas de exercícios passados em aula para resolução durante o Bootcamp de Java com a Digital House em parceria com o Mercado Livre. 
+
+## Relação de Listas de Exercícios
+
+- Lista de Exercícios I: comandos básicos do terminal focado em manipulação de arquivos e diretórios.
