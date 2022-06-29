@@ -7,3 +7,4 @@
 - Lista de Exercícios II: comandos básicos do Git e Github via terminal.
 - Lista de Exercícios III: comandos avançados do Git e Github via terminal.
 - Lista de Exercícios IV: comandos avançados do Git e Github via terminal.
+- Lista de Exercícios V: Estrutura de controle e arrays (vetores e matrizes).
