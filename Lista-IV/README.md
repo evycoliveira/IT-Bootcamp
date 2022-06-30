@@ -1,4 +1,4 @@
-# Lista de Exercícios III
+# Lista de Exercícios IV
 
 > Lista solicitada durante o dia 22 de junho, sob a temática do Git e Github.
 
