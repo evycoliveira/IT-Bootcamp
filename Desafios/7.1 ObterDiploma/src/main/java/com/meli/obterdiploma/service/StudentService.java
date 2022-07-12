@@ -28,6 +28,6 @@ public class StudentService implements IStudentService {
     public void delete(Long id) { studentDAO.delete(id); }
 
     @Override
-    public Set<StudentDTO> getAll { return this.studentRespository.findAll(); }
+    public Set<StudentDTO> getAll() { return this.studentRespository.findAll(); };
 
 }
